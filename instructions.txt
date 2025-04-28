@@ -1,0 +1,10 @@
+Step 1 conda create -p broadcaster_live python==3.11 
+
+Step 2: conde activate broadcaster_live 
+(Only for user) 
+
+Step 3: conda install pytorch-2.3.1 torchvision8.28.1 pytarch-cua-12.4-pytorghenidia
+
+Step 4: pip Install -r  requirements.txt
+
+step 5: open python interpreter
