@@ -23,7 +23,7 @@ class CustomSegmentationWithYolo:
                 # get indices of results where class is 0 (people in COCO)
                 people_indices = torch.where(clss == 0)
                 
-                # use these indices to extract the relevant masks
+                # use these indices to extract the relevant maskss
                 people_masks = masks[people_indices]
 
                 if len(people_masks) == 0:
