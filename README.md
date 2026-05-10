@@ -90,6 +90,12 @@ The system provides a user interface where users can:
 * Apply background effects
 * Stream processed video in real time
 
+# 🎥 Project Demo Video
+
+Click the preview below to watch the Real-Time Video Broadcasting System demonstration.
+
+[▶️ Watch Demo Video](https://github.com/Anjali2718/Real-Time-Video-Broadcasting-System/blob/main/Videobroadcastingpreview.mp4)
+
 ---
 
 # 🎯 Conclusion
